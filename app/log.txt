@@ -1,0 +1,116 @@
+WP_Post Object
+(
+    [ID] => 107
+    [post_author] => 1
+    [post_date] => 2024-05-24 06:35:37
+    [post_date_gmt] => 2024-05-24 06:35:37
+    [post_content] => Thank you for choosing The Classified Listing. If you have found our plugin useful and makes you smile, please consider giving us a 5-star rating on WordPress.org. It will help us to grow.
+    [post_title] => Book2
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => book2
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-05-24 06:36:06
+    [post_modified_gmt] => 2024-05-24 06:36:06
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://classified-listing.local/?post_type=book&#038;p=107
+    [menu_order] => 0
+    [post_type] => book
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+
+WP_Post Object
+(
+    [ID] => 107
+    [post_author] => 1
+    [post_date] => 2024-05-24 06:35:37
+    [post_date_gmt] => 2024-05-24 06:35:37
+    [post_content] => Thank you for choosing The Classified Listing. If you have found our plugin useful and makes you smile, please consider giving us a 5-star rating on WordPress.org. It will help us to grow.
+    [post_title] => Book2
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => book2
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-05-24 06:36:06
+    [post_modified_gmt] => 2024-05-24 06:36:06
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://classified-listing.local/?post_type=book&#038;p=107
+    [menu_order] => 0
+    [post_type] => book
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+
+WP_Post Object
+(
+    [ID] => 107
+    [post_author] => 1
+    [post_date] => 2024-05-24 06:35:37
+    [post_date_gmt] => 2024-05-24 06:35:37
+    [post_content] => Thank you for choosing The Classified Listing. If you have found our plugin useful and makes you smile, please consider giving us a 5-star rating on WordPress.org. It will help us to grow.
+    [post_title] => Book2
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => book2
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-05-24 06:36:06
+    [post_modified_gmt] => 2024-05-24 06:36:06
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://classified-listing.local/?post_type=book&#038;p=107
+    [menu_order] => 0
+    [post_type] => book
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+
+WP_Post Object
+(
+    [ID] => 107
+    [post_author] => 1
+    [post_date] => 2024-05-24 06:35:37
+    [post_date_gmt] => 2024-05-24 06:35:37
+    [post_content] => Thank you for choosing The Classified Listing. If you have found our plugin useful and makes you smile, please consider giving us a 5-star rating on WordPress.org. It will help us to grow.
+    [post_title] => Book2
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => open
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => book2
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-05-24 06:36:06
+    [post_modified_gmt] => 2024-05-24 06:36:06
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://classified-listing.local/?post_type=book&#038;p=107
+    [menu_order] => 0
+    [post_type] => book
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+
